@@ -1,0 +1,8 @@
+# Credentials and generated outputs
+.env
+.venv/
+__pycache__/
+*.pyc
+outputs/
+results/
+.DS_Store
